@@ -1,0 +1,1 @@
+# test d'égalité de proportions
